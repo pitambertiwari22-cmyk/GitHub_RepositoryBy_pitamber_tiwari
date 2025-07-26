@@ -14,7 +14,6 @@ This dashboard provides insights about:
 1. Download the `.pbix` file.
 2. Open in **Power BI Desktop**.
 3. Explore the visuals!
-
 ### 📸 Preview
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](213eb6a3-fc19-4175-8f87-8c3bec774008.gif
 
