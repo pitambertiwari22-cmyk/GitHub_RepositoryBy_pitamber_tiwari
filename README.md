@@ -1,2 +1,20 @@
-# GitHub_RepositoryBy_pitamber_tiwari
-this is available for everbody_everyone_anywhere and you applicable then you ask me again.
+# 🎮 Power BI Video Games Dashboard
+
+This dashboard provides insights about:
+- 📊 Number of games by publisher
+- 😀 Sentiment by platform
+- 🔍 Q&A analysis for games
+
+### 📂 Files
+- `VideoGamesDashboard.pbix` → Power BI source file
+- `Dashboard.pdf` → Exported PDF version
+- `Dashboard.png` → Dashboard image
+
+### 🔗 How to View
+1. Download the `.pbix` file.
+2. Open in **Power BI Desktop**.
+3. Explore the visuals!
+
+### 📸 Preview
+![Dashboard Preview](Dashboard.png)
+
