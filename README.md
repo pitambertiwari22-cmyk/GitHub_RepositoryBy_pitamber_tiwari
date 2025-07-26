@@ -15,5 +15,5 @@ This dashboard provides insights about:
 2. Open in **Power BI Desktop**.
 3. Explore the visuals!
 ### 📸 Preview
-![Dashboard Preview](213eb6a3-fc19-4175-8f87-8c3bec774008.gif
+[![Dashboard Preview](213eb6a3-fc19-4175-8f87-8c3bec774008.gif](https://github.com/pitambertiwari22-cmyk/GitHub_RepositoryBy_pitamber_tiwari/blob/main/6-quick-tips-power-bi-blog-QA%20_Pitamber%20tiwari.gif)
 
